@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826745350630",
+    "project_id": "classroom-conference",
+    "storage_bucket": "classroom-conference.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826745350630:android:4920e26b48ee8f1dad0e27",
+        "android_client_info": {
+          "package_name": "com.example.classroom_conference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826745350630-fq4ln4l2eu8s2rnl4i1fb8ib0ufmetc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classroom_conference",
+            "certificate_hash": "da530682cbc4ce33ec1199dd0d4b7bfa5221d3bc"
+          }
+        },
+        {
+          "client_id": "826745350630-c88bfsnl8ce9j0epkiedogvumnu7j9f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQHeqzmoe7o4G6FnPpCXJw5HAwGOXduQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826745350630-c88bfsnl8ce9j0epkiedogvumnu7j9f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
